@@ -14,7 +14,7 @@ Change config.txt in that directory to load plugin for title of your choice by a
 ux0:tai/oclockvita.suprx
 ```
 
-After that just run the game and press SELECT + UP to enable menu. Press SELECT + DOWN to close menu.
+After that just run the game and press SELECT + UP to enable menu. Press SELECT + DOWN or SQURE or CROSS to close menu.
 
 Thanks to: 
 
