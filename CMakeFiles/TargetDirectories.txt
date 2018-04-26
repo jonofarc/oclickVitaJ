@@ -1,0 +1,4 @@
+/Users/Jonathan/Documents/Projects/oclockvita/CMakeFiles/rebuild_cache.dir
+/Users/Jonathan/Documents/Projects/oclockvita/CMakeFiles/edit_cache.dir
+/Users/Jonathan/Documents/Projects/oclockvita/CMakeFiles/oclockvita.suprx.dir
+/Users/Jonathan/Documents/Projects/oclockvita/CMakeFiles/oclockvita.dir

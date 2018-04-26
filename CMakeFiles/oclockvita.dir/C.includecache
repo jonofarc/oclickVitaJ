@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Jonathan/Documents/Projects/oclockvita/blit.c
+libk/stdarg.h
+-
+libk/stdio.h
+-
+libk/string.h
+-
+psp2/types.h
+-
+psp2/display.h
+-
+blit.h
+/Users/Jonathan/Documents/Projects/oclockvita/blit.h
+
+/Users/Jonathan/Documents/Projects/oclockvita/blit.h
+psp2/display.h
+-
+
+/Users/Jonathan/Documents/Projects/oclockvita/font.c
+psp2/types.h
+-
+
+/Users/Jonathan/Documents/Projects/oclockvita/oclockvita.c
+psp2/kernel/modulemgr.h
+-
+psp2/display.h
+-
+psp2/ctrl.h
+-
+psp2/power.h
+-
+taihen.h
+-
+blit.h
+/Users/Jonathan/Documents/Projects/oclockvita/blit.h
+
